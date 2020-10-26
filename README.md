@@ -1,3 +1,28 @@
+ ##What is sentiment analysis and how can machine learning help Kafunge customers?\n",
+    "When you think of artificial intelligence (AI), the word “emotion” doesn’t typically come to mind. But there’s an entire field of research using AI to understand emotional responses to news, product experiences, movies, restaurants, and more. It’s known as sentiment analysis, or emotion AI, and it involves analyzing views – positive, negative or neutral – from written text to understand and gauge reactions.\n",
+    "\n",
+    "\n",
+    "The tech behind sentiment analysis involves **natural language processing or linguistic** algorithms that assign values to positive, negative or neutral text (converting opinions into datasets), while machine learning processes the datasets to reveal relevant trends over time. There’s significant planning required: How do you ensure the algorithms capture useful information? Are you identifying the right phrases to analyze? How can you convert findings into better products, services, and experiences?\n",
+    "\n",
+    "##Goal Defination\n",
+    "Our ojective in this tutorial will be to Identify the next best action for the customerthrough real-time insights that incorporate machine learning tools— sentiment analysis—can help **Kafunge**, **an inside sales CRM for SMEs and Startu-up** assess the likelihood of a deal closing or the level of a customer’s loyalty. I believe that Personally-tailored recommendations powered by machine learning can engage and delight customers with information and offers that are relevant to them\n",
+    "\n",
+    "# Sentiment Analysis with BERT and Pytorch\n",
+    "\n",
+    "##Pytorch\n",
+    "In my humble opinion, PyTorch is the sweet way to solve Machine Learning problems, in the real world! The vast community allows you to work state-of-the-art models and deploy them to production in no time (relatively speaking).Almost every framework is great, but PyTorch has really solid roots. Easy to use and understand, allows for fast experimentation and standard debugging tools apply! Enjoy!\n",
+    "\n",
+    "##BERT\n",
+    "In this tutorial, you'll learn how to fine-tune BERT for sentiment analysis. You'll do the required text preprocessing (special tokens, padding, and attention masks) and build a Sentiment Classifier using the amazing Transformers library by Hugging Face!\n",
+    "\n",
+    "You'll learn how to:\n",
+    "\n",
+    "- Intuitively understand what BERT is\n",
+    "- Preprocess text data for BERT and build PyTorch Dataset (tokenization, attention masks, and padding)\n",
+    "- Use Transfer Learning to build Sentiment Classifier using the Transformers library by Hugging Face\n",
+    "- Evaluate the model on test data\n",
+
+
 # Deploy BERT for Sentiment Analsysi with FastAPI
 
 Deploy a pre-trained BERT model for Sentiment Analysis as a REST API using FastAPI
