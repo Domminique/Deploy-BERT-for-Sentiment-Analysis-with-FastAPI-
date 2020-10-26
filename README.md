@@ -55,6 +55,35 @@ You'll learn how to:
 - Evaluate the model on test data
 
 
+## The backbone of our REST API will be:
+
+FastAPI - lets you easily set up a REST API (some say it might be fast, too)
+Uvicorn - server that lets you do async programming with Python (pretty cool)
+Pydantic - data validation by introducing types for our request and response data.
+
+Some tools will help us write some better code (thanks to Momchil Hardalov for the configs):
+
+Black - code formatting
+isort - imports sorting
+flake8 - check for code style (PEP 8) compliance
+
+# Note
+Our API expects a text - the review for sentiment analysis. The response contains the sentiment, confidence (softmax output for the sentiment) and all probabilities for each sentiment.
+
+Our pre-trained model is stored as a PyTorch state dict. We need to load it and use it to predict the text sentiment.You can also see how the model was trained [read more and run the complete tutorial here on Google Colab](https://colab.research.google.com/drive/1MRJE_FwIxQ6ijvip3WAgXyOrrnLilcJB#scrollTo=NJ6MhJYYBCwu)
+
+## This is the same model we’ve used for training. 
+
+Recall that BERT requires some special text preprocessing. We need a place to use the tokenizer from Hugging Face. We also need to do some massaging of the model outputs to convert them to our API response format.
+
+The Model provides a nice abstraction (a Facade) to our classifier. It exposes a single predict() method and should be pretty generalizable if you want to use the same project structure as a template for your next deployment. The model.py file:
+
+Our request handler needs access to the model to return a prediction. We’ll use the Dependency Injection framework provided by FastAPI to inject our model.
+
+ # Summary
+You should now be a proud owner of ready to deploy (kind of) Sentiment Analysis REST API using BERT. Of course, you’re missing lots of stuff to be production-ready - logging, monitoring, alerting, containerization, and much more. But hey, you did good!
+
+
 
 
 ## Installation
