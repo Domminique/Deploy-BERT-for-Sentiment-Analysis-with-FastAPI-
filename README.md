@@ -62,7 +62,7 @@ You'll learn how to:
 Clone this repo:
 
 ```sh
-git clone git@github.com:curiousily/Deploy-BERT-for-Sentiment-Analysis-with-FastAPI.git
+git clone https://github.com/Domminique/Deploy-BERT-for-Sentiment-Analysis-with-FastAPI-.git
 cd Deploy-BERT-for-Sentiment-Analysis-with-FastAPI
 ```
 
