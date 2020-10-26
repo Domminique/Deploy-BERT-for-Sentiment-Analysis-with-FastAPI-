@@ -1,4 +1,5 @@
- ##What is sentiment analysis and how can machine learning help Kafunge customers?\n",
+  #What is sentiment analysis and how can machine learning help Kafunge customers?
+  
     "When you think of artificial intelligence (AI), the word “emotion” doesn’t typically come to mind. But there’s an entire field of research using AI to understand emotional responses to news, product experiences, movies, restaurants, and more. It’s known as sentiment analysis, or emotion AI, and it involves analyzing views – positive, negative or neutral – from written text to understand and gauge reactions.\n",
     "\n",
     "\n",
