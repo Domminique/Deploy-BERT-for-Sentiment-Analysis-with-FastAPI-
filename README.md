@@ -24,7 +24,7 @@ The response you'll get looks something like this:
 }
 ```
 
-You can also [read the complete tutorial here](https://www.curiousily.com/posts/deploy-bert-for-sentiment-analysis-as-rest-api-using-pytorch-transformers-by-hugging-face-and-fastapi/)
+You can also [read and run the complete tutorial here on Google Colab](https://colab.research.google.com/drive/1MRJE_FwIxQ6ijvip3WAgXyOrrnLilcJB#scrollTo=NJ6MhJYYBCwu)
   
   
 # What is sentiment analysis and how can machine learning help Kafunge customers?
