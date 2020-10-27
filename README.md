@@ -24,7 +24,8 @@ The response you'll get looks something like this:
 }
 ```
 
-You can also [read and run the complete tutorial here on Google Colab](https://colab.research.google.com/drive/1MRJE_FwIxQ6ijvip3WAgXyOrrnLilcJB#scrollTo=NJ6MhJYYBCwu)
+You can also [read and run the complete tutorial here on Google Colab](https://colab.research.google.com/drive/1MRJE_FwIxQ6ijvip3WAgXyOrrnLilcJB?usp=sharing)
+
   
   
 # What is sentiment analysis and how can machine learning help Kafunge customers?
@@ -70,7 +71,7 @@ flake8 - check for code style (PEP 8) compliance
 # Note
 Our API expects a text - the review for sentiment analysis. The response contains the sentiment, confidence (softmax output for the sentiment) and all probabilities for each sentiment.
 
-Our pre-trained model is stored as a PyTorch state dict. We need to load it and use it to predict the text sentiment.You can also see how the model was trained [read more and run the complete tutorial here on Google Colab](https://colab.research.google.com/drive/1MRJE_FwIxQ6ijvip3WAgXyOrrnLilcJB#scrollTo=NJ6MhJYYBCwu)
+Our pre-trained model is stored as a PyTorch state dict. We need to load it and use it to predict the text sentiment.You can also see how the model was trained [read more and run the complete tutorial here on Google Colab](https://colab.research.google.com/drive/1MRJE_FwIxQ6ijvip3WAgXyOrrnLilcJB?usp=sharing)
 
 ## This is the same model we’ve used for training. 
 
