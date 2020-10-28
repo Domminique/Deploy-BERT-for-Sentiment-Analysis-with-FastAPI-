@@ -123,10 +123,8 @@ Send a test request:
 ```sh
 bin/test_request
 
-## References
-
-
 ```
+## References
 - BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (https://arxiv.org/abs/1810.04805)
 - L11 Language Models - Alec Radford (OpenAI)](https://www.youtube.com/watch?v=BnpB3GrpsfM)
 - The Illustrated BERT, ELMo, and co. (https://jalammar.github.io/illustrated-bert/)
