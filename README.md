@@ -59,7 +59,9 @@ You'll learn how to:
 ## The backbone of our REST API will be:
 
 FastAPI - lets you easily set up a REST API (some say it might be fast, too)
+
 Uvicorn - server that lets you do async programming with Python (pretty cool)
+
 Pydantic - data validation by introducing types for our request and response data.
 
 Some tools will help us write some better code (thanks to Momchil Hardalov for the configs):
