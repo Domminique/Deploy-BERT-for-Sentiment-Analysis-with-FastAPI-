@@ -37,7 +37,7 @@ You can also [read and run the complete tutorial here on Google Colab](https://c
     
 # Goal Defination
     
- Our ojective in this tutorial will be to Identify the next best action for the customerthrough real-time insights that incorporate machine learning tools— sentiment analysis—can help **Kafunge**, **an inside sales CRM for SMEs and Startu-up** assess the likelihood of a deal closing or the level of a customer’s loyalty. I believe that Personally-tailored recommendations powered by machine learning can engage and delight customers with information and offers that are relevant to them
+ Our ojective in this tutorial will be to Identify the next best action for the customer through real-time insights that incorporate machine learning tools— sentiment analysis—can help **Kafunge**, **an inside sales CRM for SMEs and Startu-up** assess the likelihood of a deal closing or the level of a customer’s loyalty. I believe that Personally-tailored recommendations powered by machine learning can engage and delight customers with information and offers that are relevant to them
     
  # Sentiment Analysis with BERT and Pytorch
     
