@@ -33,7 +33,7 @@ You can also [read and run the complete tutorial here on Google Colab](https://c
  When you think of artificial intelligence (AI), the word “emotion” doesn’t typically come to mind. But there’s an entire field of research using AI to understand emotional responses to news, product experiences, movies, restaurants, and more. It’s known as sentiment analysis, or emotion AI, and it involves analyzing views – positive, negative or neutral – from written text to understand and gauge reactions.,
     
     
- The tech behind sentiment analysis involves **natural language processing or linguistic** algorithms that assign values to positive, negative or neutral text (converting opinions into datasets), while machine learning processes the datasets to reveal relevant trends over time. There’s significant planning required: How do you ensure the algorithms capture useful information? Are you identifying the right phrases to analyze? How can you convert findings into better products, services, and experiences?\n
+ The tech behind sentiment analysis involves **natural language processing or linguistic** algorithms that assign values to positive, negative or neutral text (converting opinions into datasets), while machine learning processes the datasets to reveal relevant trends over time. There’s significant planning required: How do you ensure the algorithms capture useful information? Are you identifying the right phrases to analyze? How can you convert findings into better products, services, and experiences?
     
 # Goal Defination
     
